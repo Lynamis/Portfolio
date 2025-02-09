@@ -48,7 +48,7 @@
         <h1>Mon Projet Python</h1>
         <p>Voici le lien pour télécharger mon script Python :</p>
         
-        <a href="https://ton-lien.github.com/ton-script.py" download>
+        <a href="https://lynamis.io/DetectiondeMotDePasseFaibles.py" download>
             <button>Télécharger le Script</button>
         </a>
     </div>
