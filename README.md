@@ -1,7 +1,7 @@
 # Vérification de mot de passe avec Python
 
 ## Description
-Ce projet consiste en un script Python permettant de vérifier la robustesse d'un mot de passe en utilisant plusieurs critères de sécurité. Le but de ce projet est d'apprendre à utiliser les fonctions de Python pour analyser des chaînes de caractères et appliquer des règles de sécurité de base sur les mots de passe.
+Ce projet, c'est un script Python qui check la solidité d'un mot de passe en utilisant plusieurs critères de sécurité. L'idée ici, c'est de travailler avec les fonctions Python pour analyser des chaînes de caractères et appliquer des règles de sécurité basiques aux mots de passe.
 
 ## Fonctionnalités
 - Vérification de la longueur minimale du mot de passe.
